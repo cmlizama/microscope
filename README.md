@@ -1,0 +1,1 @@
+Following along with the *Discover Meteor* book by Tom Coleman and Sacha Greif: http://www.discovermeteor.com/
