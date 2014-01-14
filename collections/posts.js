@@ -7,6 +7,7 @@ Posts.allow({
 });
 
 //only allow the user to edit certain data of their own posts
+//namely, the url and the title
 Posts.deny({
 	update: function(userId, post, fieldNames) {
 		//may only edit the following two fields:
