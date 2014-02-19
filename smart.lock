@@ -5,7 +5,8 @@
       "iron-router": {},
       "spin": {},
       "accounts-ui-bootstrap-dropdown": {},
-      "errors": {}
+      "errors": {},
+      "iron-router-progress": {}
     },
     "packages": {
       "iron-router": {
@@ -27,6 +28,11 @@
         "git": "https://github.com/tmeasday/meteor-errors.git",
         "tag": "v0.2.0",
         "commit": "b7cc525c19defe2dc744e8e34d1328b430f3e03a"
+      },
+      "iron-router-progress": {
+        "git": "https://github.com/Multiply/iron-router-progress.git",
+        "tag": "v0.2.0",
+        "commit": "ce730d1d26feadb7c75ea25f22c5bfdb0c549a8b"
       }
     }
   }
